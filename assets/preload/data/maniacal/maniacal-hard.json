@@ -1,6 +1,6 @@
 {
 	"song": {
-		"player1": "BF-Jon",
+		"player1": bf",
 		"events": [],
 		"gfVersion": "Scared_GF",
 		"notes": [
@@ -5089,7 +5089,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "Jon",
+		"player2": "Dad",
 		"player3": null,
 		"song": "Maniacal",
 		"stage": "carnival",
